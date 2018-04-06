@@ -1,1 +1,1 @@
-# gamejam4_5_2018
+This repos is for 4/5/2018 gamejam.
